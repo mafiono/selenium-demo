@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="connections">
+    <connection type="Azure.Insights:Jetbrains.IJModule" envPrefix="AZURE_INSIGHTS">
+      <resource type="Azure.Insights">9b8d7fc9666e1af3926d046372301fd6</resource>
+      <consumer type="Jetbrains.IJModule">bitcoin-generator</consumer>
+    </connection>
+  </component>
+</project>

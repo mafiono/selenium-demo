@@ -4,7 +4,7 @@
     "versions": {
       "99.0": {
         "image": "selenoid/vnc:chrome_99.0",
-        "port": "4444"
+        "port": "4445"
       }
     }
   }
